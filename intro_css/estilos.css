@@ -1,0 +1,53 @@
+/* h2{
+    background-color: red;
+    color: white;
+} */
+/* TIPOS DE SELECTORES */
+/* Selectores por nombre de etiqueta */
+/* p{
+    font-size: 30px;
+    color: crimson;
+} */
+/* Selectores de identificador */ 
+/* idenrtificador id (#) */
+/* #p2{
+    font-size: 30px;
+    color: crimson;
+} */
+/* identificador Class (.) */
+/*
+    font-style: italic; /*estilo de letra*/
+    /*font-weight: bold; /*ancho de letra o negrita */
+/*}
+.texto_grande{
+    font-size: 40px;
+}
+p#p2{
+    font-size: 50px;
+}
+/* Selectores de Jerarquía */
+/* Hijo directo (>) */
+/* div > p{
+    font-size: 30px;
+    color: red;
+}
+div > span > p{
+    font-size: 30px;
+    color: red;
+} */
+/* Hijos indirectos ()*/
+/* div p{
+    font-size: 30px;
+    color: red;
+} */
+/* Selectores adyacentes o hermanos */
+/* Selector primer hermano (+) */
+/* div + p + p{
+    font-size: 30px;
+    color: red;
+} */
+/* Selector todos los hermanos (~) */
+/* div ~ p{
+    font-size: 30px;
+    color: red;
+} */
